@@ -147,8 +147,7 @@ public class ExamGrades
         System.out.println();
     }
     
-    // Find the lowes
-    t test grade for each student.   
+    // Find the lowest test grade for each student.   
     public static void getLowestInRow (int [][] lowestRow)
     {
         int min = lowestRow[0][0];
